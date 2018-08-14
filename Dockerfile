@@ -1,6 +1,6 @@
 FROM ubuntu:16.04
 
-LABEL MAINTAINER="worameth.semapat@gmail.com"
+LABEL MAINTAINER="chen2584"
 
 ENV ENVIRONMENT production
 
